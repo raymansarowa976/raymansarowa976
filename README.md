@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 -  📫 Where to reach me:
     -  my personal email: raymansarowa1@gmail.com
-    -  my discord: YoungPanda49
+    -  my discord: @YoungPanda49
+    -  LinkedIn: [Rayman Sarowa](url)
 
 -  😄 My pronouns are he/him
 
