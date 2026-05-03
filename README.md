@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on: Setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
+🔭 I’m currently working on setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
 
-🌱 I’m currently learning: Springboot 
+🌱 I’m currently learning springboot 
 
-🤔 I’m looking for help with: Finding the best pizza place in my city
+🤔 I’m looking for help with finding the best pizza place in my city, Kelowna BC
 
-📫 How to reach me: You can reach me at my personal email: raymansarowa1@gmail.com
+📫 You can reach me at my personal email: raymansarowa1@gmail.com 
 
-😄 Pronouns: he/him
+😄 My pronouns are he/him
 
 ⚡ Fun fact: Cleopatra lived closer to the release of the first iPhone, than she did to the construction of the pyramids. 
 
