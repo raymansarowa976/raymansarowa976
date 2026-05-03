@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on: Setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me
+🔭 I’m currently working on: Setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
 
 🌱 I’m currently learning: Springboot 
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: Give me time to think of one...
+⚡ Fun fact: Cleopatra lived closer to the release of the first iPhone, than she did to the construction of the pyramids. 
 
