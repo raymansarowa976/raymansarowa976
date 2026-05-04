@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
--  🔭 I’m currently working on setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
+-   I’m currently working on setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
 
--  🌱 I’m currently learning springboot 
+-   I’m currently learning Spring Boot 
 
--  🤔 I’m looking for help with finding the best pizza place in my city, Kelowna BC
+-   I’m looking for help with finding the best pizza place in my city, Kelowna BC
 
--  📫 Where to reach me:
+-   Where to reach me:
     -  my personal email: raymansarowa1@gmail.com
     -  Discord: [@YoungPanda49](https://discord.com/users/633534729907339285)
-    -  LinkedIn: [Rayman Sarowa](url)
+    -  LinkedIn: [Rayman Sarowa](https://www.linkedin.com/in/rayman-sarowa)
 
--  😄 My pronouns are he/him
-
--  ⚡ Fun fact: Cleopatra lived closer to the release of the first iPhone, than she did to the construction of the pyramids. 
+-   Fun fact: Cleopatra lived closer to the release of the first iPhone, than she did to the construction of the pyramids. 
 
