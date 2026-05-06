@@ -1,4 +1,4 @@
-## Hello dear viewer, this is Rayman! <img src="images/wave.gif" width="30"></h2>
+## Hello, this is Rayman! <img src="images/wave.gif" width="30"></h2>
 
 <!--
 **raymansarowa976/raymansarowa976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
