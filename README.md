@@ -23,5 +23,4 @@ Here are some ideas to get you started:
     -  Discord: [@YoungPanda49](https://discord.com/users/633534729907339285)
     -  LinkedIn: [Rayman Sarowa](https://www.linkedin.com/in/rayman-sarowa)
 
--   Fun fact: Cleopatra lived closer to the release of the first iPhone, than she did to the construction of the pyramids. 
 
