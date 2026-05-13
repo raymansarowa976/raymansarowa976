@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 -   I’m currently working on setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
   
--   I’m looking for help with finding the best pizza place in my city, Kelowna BC
+-  I’m currently learning aws
 
 -   Where to reach me:
     -  my personal email: raymansarowa1@gmail.com
