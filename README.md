@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
--   I’m currently working on setting up a personal website where I can post and talk about stuff that's going on in my life, my thoughts, anything that interests me.
+-   Feel free to check out my [personal website](https://www.rsarowa.com)
 
 -   Where to reach me:
     -  my personal email: raymansarowa1@gmail.com
