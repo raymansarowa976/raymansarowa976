@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -   Feel free to check out my [personal website](https://www.rsarowa.com)
+-   I'm currently learning how to host projects using aws
 
 -   Where to reach me:
     -  my personal email: raymansarowa1@gmail.com
