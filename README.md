@@ -1,5 +1,4 @@
 ## Hello, this is Rayman! <img src="images/wave.gif" width="30"></h2>
-
 <!--
 **raymansarowa976/raymansarowa976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,5 +57,12 @@ Here are some ideas to get you started:
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
+
+### 📈 GitHub Stats
+<div align="center">
+  <a href="https://github.com/raymansarowa976">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymansarowa976&theme=solarized-light" alt="GitHub Streak" />
+  </a>
+</div>
 
 
