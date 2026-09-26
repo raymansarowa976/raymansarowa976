@@ -57,6 +57,10 @@ Here are some ideas to get you started:
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
+### 🤞 Commits
+<div align="center">
+  <img src="https://raw.githubusercontent.com/raymansarowa976/raymansarowa976/output/github-contribution-grid-snake-solarized-light.svg" alt="Snake Animation" />
+</div>
 
 
 
