@@ -58,11 +58,7 @@ Here are some ideas to get you started:
 [![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)](https://turbo.build/)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)](https://pnpm.io/)
 
-### 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/raymansarowa976">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raymansarowa976&theme=solarized-light" alt="GitHub Streak" />
-  </a>
-</div>
+
+
 
 
