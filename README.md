@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
-### 😄 My Personal Website
+### My Personal Website
 [![Website](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.rsarowa.com)
-### 📬 Where to reach me
+### Where to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayman-sarowa)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633534729907339285)
